@@ -1,59 +1,50 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Surekha Sunkara",
+    "label": "Software Engineer",
+    "picture": "https://surekhasunkara.github.io/images/bluejacket.jpg",
+    "email": "surekhasunkara.d@gmail.com",
+    "website": "https://surekhasunkara.github.io",
+    "summary": "Software Engineer with 5+ years of experience building consumer-facing web applications using HTML, CSS, JavaScript and React. Experienced building and prototyping full stack applications using, but not limited to the following SQL, Python, Django, Rest Framework and React.",
     "location": {
-      "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "address": "Elm Ct",
+      "postalCode": "94086",
+      "city": "Sunnyvale",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "California"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "surekhasunkara",
+        "url": "http://github.com/surekhasunkara"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "surekhasunkara",
+        "url": "www.linkedin.com/in/surekhasunkara"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "SunkaraSurekha",
+        "url": "https://twitter.com/SunkaraSurekha"
       },
       {
         "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "SurekhaSunkara",
+        "url": "http://instagram.com/SurekhaSunkara"
       }
     ]
   },
   "interests": [
     {
-      "name": "internet of things",
-      "keywords": [
-        "Arduino",
-        "TI MSP430"
-      ]
+      "name": "Craftsmanship"
     },
     {
-      "name": "data mining",
-      "keywords": [
-      ]
+      "name": "Customer Focussed"
     },
     {
-      "name": "artificial intelligence",
-      "keywords": [
-      ]
+      "name": "Excellence"
     }
   ],
   "skills": [
@@ -61,12 +52,14 @@
       "name": "Languages and Frameworks",
       "level": "",
       "keywords": [
-        "C",
-        "C++",
+        "Python",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "JavaScript",
+        "Node JS",
+        "React",
+        "Redux",
+        "SQL",
+        "Django"
       ]
     },
     {
@@ -74,96 +67,63 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Windows"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "gpa": "",
-      "courses": [
-      ]
+      "institution": "Jawaharlal Nehru Technological University",
+      "area": "Computer Science",
+      "studyType": "B.Tech",
+      "startDate": "2008",
+      "endDate": "2012",
+      "gpa": "8.5"
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Johnson Controls",
+      "position": "Software Engineer",
+      "startDate": "2018-05-01",
+      "endDate": "2018-11-30",
+      "summary": "Worked on a web based health monitoring system for devices called ESM(Enterprise System Manager).",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Transformed  the application into modern look and aesthetics using React.",
+        "Implemented API's using Django Rest Framework connecting different modules of the product."
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Pushkala Constructions Pvt. Ltd",
+      "position": "Software Engineer",
+      "startDate": "2015-03-01",
+      "endDate": "2017-11-30",
+      "summary": "Inventory Management System",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Developed a restful web application for Inventory Management System , using Postgres, Python and Rest framework.",
+        "Brainstormed with designers, backend engineers and product managers to design and release new features."
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "organization": "Computer Society Of India",
+      "website": "http://www.csi-india.org/",
+      "position": "Organizer",
+      "startDate": "2009-01-01",
+      "endDate": "2012-01-01",
+      "summary": "Succesfully organized and conducted events",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Started a chapter of CSI in my college and organized many events."
       ]
     },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
   ],
   "references": [
     {
-      "name": "Available upon request",
-      "reference": ""
+      "name": "Srinivas Davuluri",
+      "organization":"SmartERP Inc",
+      "email": "itzdinu@gmail.com"
     }
   ]
 }
